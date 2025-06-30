@@ -2,7 +2,10 @@
 
 A visual, step-by-step, and beginner-friendly guide to **JavaScript Closures**. This interactive demo lets you see how closures work in memory, how scopes are created, and how variables are preserved—using animated diagrams, code walkthroughs, and live console output.
 
+🔗 **Live Demo:** [closures-fullstackgada](https://closures-fullstackgada.netlify.app/)
+
 ---
+
 
 ## 🎯 Features
 
